@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+    "item":"mccourse:urilium_block"
+    }
+  ],
+  "result": {
+    "item": "mccourse:urilium",
+    "count": 9
+  }
+
+
+
+
+}
