@@ -15,6 +15,9 @@ public class ModItems {
     public static final RegistryObject<Item> URILIUM = ITEMS.register("urilium",
             () -> new Item(new Item.Properties() ));
 
+    public static final RegistryObject<Item> URILIUM_BAR = ITEMS.register("urilium_bar",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.URILIUM_BAR)) );
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

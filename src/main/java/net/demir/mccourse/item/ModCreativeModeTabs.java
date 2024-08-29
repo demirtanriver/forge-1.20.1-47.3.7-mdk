@@ -23,6 +23,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.URILIUM_BLOCK.get());
                         output.accept(ModBlocks.URILIUM_ORE.get());
                         output.accept(ModBlocks.DEEPSLATE_URILIUM_ORE.get());
+                        output.accept(ModItems.URILIUM_BAR.get());
 
                     }).build());
 

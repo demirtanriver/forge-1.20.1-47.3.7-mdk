@@ -1,5 +1,6 @@
 {
-  "item.mccourse.urilium": "Urilium Ingot",
+  "item.mccourse.urilium": "Urilium",
+  "item.mccourse.urilium_bar": "Bar of Urilium",
 
   "block.mccourse.urilium_block": "Block of Urilium",
   "block.mccourse.urilium_ore": "Urilium Ore",

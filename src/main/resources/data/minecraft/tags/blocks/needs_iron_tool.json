@@ -1,0 +1,9 @@
+{
+  "replace": "false",
+  "values": [
+    "mccourse:urilium_block",
+    "mccourse:deepslate_urilium_ore",
+    "mccourse:urilium_ore"
+  ]
+
+}
