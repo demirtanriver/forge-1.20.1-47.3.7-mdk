@@ -21,6 +21,9 @@ public class ModTags {
     }
 
     public static class Blocks {
+        public static final TagKey<Block> NEEDS_URILIUM_TOOL = tag("needs_urilium_tool");
+        public static final TagKey<Block> MULTITOOL_MINEABLE = tag("mineable/multitool");
+
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(MCCourseMod.MOD_ID,name));
         }

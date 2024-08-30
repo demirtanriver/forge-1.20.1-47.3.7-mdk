@@ -6,5 +6,12 @@
   "block.mccourse.urilium_ore": "Urilium Ore",
   "block.mccourse.deepslate_urilium_ore" : "Deepslate Urilium Ore",
 
+  "item.mccourse.urilium_sword": "Urilium Sword",
+  "item.mccourse.urilium_pickaxe": "Urilium Pickaxe",
+  "item.mccourse.urilium_axe": "Urilium Axe",
+  "item.mccourse.urilium_shovel": "Urilium Shovel",
+  "item.mccourse.urilium_hoe": "Urilium Hoe",
+  "item.mccourse.urilium_multitool": "Urilium Multitool",
+
   "creativetab.course_tab": "Demirladon's MC Mod"
 }

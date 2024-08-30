@@ -23,8 +23,12 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.URILIUM_BLOCK.get());
                         output.accept(ModBlocks.URILIUM_ORE.get());
                         output.accept(ModBlocks.DEEPSLATE_URILIUM_ORE.get());
-                        output.accept(ModItems.URILIUM_BAR.get());
-
+                        output.accept(ModItems.URILIUM_SWORD.get());
+                        output.accept(ModItems.URILIUM_PICKAXE.get());
+                        output.accept(ModItems.URILIUM_AXE.get());
+                        output.accept(ModItems.URILIUM_SHOVEL.get());
+                        output.accept(ModItems.URILIUM_HOE.get());
+                        output.accept(ModItems.URILIUM_MULTITOOL.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {
